@@ -1,2 +1,2 @@
-# inventoryManagementSystem - this was done in 2012
-Stock handling
+# inventoryManagementSystem 
+Stock handling - - this was done in 2012
